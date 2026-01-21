@@ -3,7 +3,7 @@ In this Readme documentation, I'll keep updating my learnings which I gain while
 
 
 
-##9th January, 2026
+### 9th January, 2026
 
 What I’ve Done:
 Completed Git and GitHub. Covered approximately 30% of Linux basics. Set up Visual Studio successfully.
