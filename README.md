@@ -121,4 +121,28 @@ None
 
 ---
 
+### 21st January, 2026
+
+**What I’ve Done:**
+Problems on Constructors ,Instance vs. Class Variables and Access Modifers
+
+**What I Will Do Next:**
+Advanced OOPS 
+
+**Issues Faced:**
+None
+
+### 22nd January, 2026
+
+**What I’ve Done:**
+Problems On Access Modifiers (Bank Account)
+understood and practiced examples on this,static, is operator, sealed class 
+
+**What I Will Do Next:**
+OOPS problems with multiple classes and inheritance
+Higher Level OOPS problems
+
+**Issues Faced:**
+None
+
 **— Vedant Pandey**
