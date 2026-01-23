@@ -145,4 +145,21 @@ Higher Level OOPS problems
 **Issues Faced:**
 None
 
+### 23rd January, 2026  
+
+**What I have done:** 
+Snake & Ladder Game 
+repo : https://github.com/Vedant-Pandey563/SnakeAndLadder
+Object Oriented Design Principles - Diffrenet UML Diagrams Theory and Few Questions 
+Started Inheritance
+
+
+**What I will do next: **
+Continue Object Oriented Design Principles  Questions
+Inheritance 
+
+**Issues faced: **
+none
+
+
 **— Vedant Pandey**
