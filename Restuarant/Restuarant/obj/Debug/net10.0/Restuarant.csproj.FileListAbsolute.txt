@@ -1,0 +1,14 @@
+C:\Users\ved20\source\repos\Restuarant\Restuarant\obj\Debug\net10.0\Restuarant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ved20\source\repos\Restuarant\Restuarant\obj\Debug\net10.0\Restuarant.AssemblyInfoInputs.cache
+C:\Users\ved20\source\repos\Restuarant\Restuarant\obj\Debug\net10.0\Restuarant.AssemblyInfo.cs
+C:\Users\ved20\source\repos\Restuarant\Restuarant\obj\Debug\net10.0\Restuarant.csproj.CoreCompileInputs.cache
+C:\Users\ved20\source\repos\Restuarant\Restuarant\bin\Debug\net10.0\Restuarant.exe
+C:\Users\ved20\source\repos\Restuarant\Restuarant\bin\Debug\net10.0\Restuarant.deps.json
+C:\Users\ved20\source\repos\Restuarant\Restuarant\bin\Debug\net10.0\Restuarant.runtimeconfig.json
+C:\Users\ved20\source\repos\Restuarant\Restuarant\bin\Debug\net10.0\Restuarant.dll
+C:\Users\ved20\source\repos\Restuarant\Restuarant\bin\Debug\net10.0\Restuarant.pdb
+C:\Users\ved20\source\repos\Restuarant\Restuarant\obj\Debug\net10.0\Restuarant.dll
+C:\Users\ved20\source\repos\Restuarant\Restuarant\obj\Debug\net10.0\refint\Restuarant.dll
+C:\Users\ved20\source\repos\Restuarant\Restuarant\obj\Debug\net10.0\Restuarant.pdb
+C:\Users\ved20\source\repos\Restuarant\Restuarant\obj\Debug\net10.0\Restuarant.genruntimeconfig.cache
+C:\Users\ved20\source\repos\Restuarant\Restuarant\obj\Debug\net10.0\ref\Restuarant.dll

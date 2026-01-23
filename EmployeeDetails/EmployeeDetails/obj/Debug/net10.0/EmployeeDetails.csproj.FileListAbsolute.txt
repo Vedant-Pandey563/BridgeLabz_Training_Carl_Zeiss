@@ -1,0 +1,14 @@
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.AssemblyInfoInputs.cache
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.AssemblyInfo.cs
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net10.0\EmployeeDetails.exe
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net10.0\EmployeeDetails.deps.json
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net10.0\EmployeeDetails.runtimeconfig.json
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net10.0\EmployeeDetails.dll
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net10.0\EmployeeDetails.pdb
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.dll
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net10.0\refint\EmployeeDetails.dll
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.pdb
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.genruntimeconfig.cache
+C:\Users\ved20\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net10.0\ref\EmployeeDetails.dll

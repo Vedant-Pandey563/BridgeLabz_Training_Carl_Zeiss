@@ -1,0 +1,14 @@
+C:\Users\ved20\source\repos\19jan\19jan\obj\Debug\net10.0\19jan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ved20\source\repos\19jan\19jan\obj\Debug\net10.0\19jan.AssemblyInfoInputs.cache
+C:\Users\ved20\source\repos\19jan\19jan\obj\Debug\net10.0\19jan.AssemblyInfo.cs
+C:\Users\ved20\source\repos\19jan\19jan\obj\Debug\net10.0\19jan.csproj.CoreCompileInputs.cache
+C:\Users\ved20\source\repos\19jan\19jan\bin\Debug\net10.0\19jan.exe
+C:\Users\ved20\source\repos\19jan\19jan\bin\Debug\net10.0\19jan.deps.json
+C:\Users\ved20\source\repos\19jan\19jan\bin\Debug\net10.0\19jan.runtimeconfig.json
+C:\Users\ved20\source\repos\19jan\19jan\bin\Debug\net10.0\19jan.dll
+C:\Users\ved20\source\repos\19jan\19jan\bin\Debug\net10.0\19jan.pdb
+C:\Users\ved20\source\repos\19jan\19jan\obj\Debug\net10.0\19jan.dll
+C:\Users\ved20\source\repos\19jan\19jan\obj\Debug\net10.0\refint\19jan.dll
+C:\Users\ved20\source\repos\19jan\19jan\obj\Debug\net10.0\19jan.pdb
+C:\Users\ved20\source\repos\19jan\19jan\obj\Debug\net10.0\19jan.genruntimeconfig.cache
+C:\Users\ved20\source\repos\19jan\19jan\obj\Debug\net10.0\ref\19jan.dll

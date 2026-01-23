@@ -1,0 +1,14 @@
+C:\Users\ved20\source\repos\BookDetails\BookDetails\bin\Debug\net10.0\BookDetails.exe
+C:\Users\ved20\source\repos\BookDetails\BookDetails\bin\Debug\net10.0\BookDetails.deps.json
+C:\Users\ved20\source\repos\BookDetails\BookDetails\bin\Debug\net10.0\BookDetails.runtimeconfig.json
+C:\Users\ved20\source\repos\BookDetails\BookDetails\bin\Debug\net10.0\BookDetails.dll
+C:\Users\ved20\source\repos\BookDetails\BookDetails\bin\Debug\net10.0\BookDetails.pdb
+C:\Users\ved20\source\repos\BookDetails\BookDetails\obj\Debug\net10.0\BookDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ved20\source\repos\BookDetails\BookDetails\obj\Debug\net10.0\BookDetails.AssemblyInfoInputs.cache
+C:\Users\ved20\source\repos\BookDetails\BookDetails\obj\Debug\net10.0\BookDetails.AssemblyInfo.cs
+C:\Users\ved20\source\repos\BookDetails\BookDetails\obj\Debug\net10.0\BookDetails.csproj.CoreCompileInputs.cache
+C:\Users\ved20\source\repos\BookDetails\BookDetails\obj\Debug\net10.0\BookDetails.dll
+C:\Users\ved20\source\repos\BookDetails\BookDetails\obj\Debug\net10.0\refint\BookDetails.dll
+C:\Users\ved20\source\repos\BookDetails\BookDetails\obj\Debug\net10.0\BookDetails.pdb
+C:\Users\ved20\source\repos\BookDetails\BookDetails\obj\Debug\net10.0\BookDetails.genruntimeconfig.cache
+C:\Users\ved20\source\repos\BookDetails\BookDetails\obj\Debug\net10.0\ref\BookDetails.dll

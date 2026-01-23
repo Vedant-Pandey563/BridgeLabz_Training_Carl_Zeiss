@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ved20\\source\\repos\\methodpractice1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83C16784-901F-47C5-874F-13BDE76054CE}|methodpractice1\\methodpractice1.csproj|c:\\users\\ved20\\source\\repos\\methodpractice1\\methodpractice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C16784-901F-47C5-874F-13BDE76054CE}|methodpractice1\\methodpractice1.csproj|solutionrelative:methodpractice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ved20\\source\\repos\\methodpractice1\\methodpractice1\\Program.cs",
+              "RelativeDocumentMoniker": "methodpractice1\\Program.cs",
+              "ToolTip": "C:\\Users\\ved20\\source\\repos\\methodpractice1\\methodpractice1\\Program.cs",
+              "RelativeToolTip": "methodpractice1\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:57:32.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

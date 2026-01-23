@@ -1,0 +1,14 @@
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\obj\Debug\net10.0\methodpractice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\obj\Debug\net10.0\methodpractice1.AssemblyInfoInputs.cache
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\obj\Debug\net10.0\methodpractice1.AssemblyInfo.cs
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\obj\Debug\net10.0\methodpractice1.csproj.CoreCompileInputs.cache
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\bin\Debug\net10.0\methodpractice1.exe
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\bin\Debug\net10.0\methodpractice1.deps.json
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\bin\Debug\net10.0\methodpractice1.runtimeconfig.json
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\bin\Debug\net10.0\methodpractice1.dll
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\bin\Debug\net10.0\methodpractice1.pdb
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\obj\Debug\net10.0\methodpractice1.dll
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\obj\Debug\net10.0\refint\methodpractice1.dll
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\obj\Debug\net10.0\methodpractice1.pdb
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\obj\Debug\net10.0\methodpractice1.genruntimeconfig.cache
+C:\Users\ved20\source\repos\methodpractice1\methodpractice1\obj\Debug\net10.0\ref\methodpractice1.dll

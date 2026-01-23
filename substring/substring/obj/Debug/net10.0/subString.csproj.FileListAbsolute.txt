@@ -1,0 +1,14 @@
+C:\Users\ved20\source\repos\subString\subString\bin\Debug\net10.0\subString.exe
+C:\Users\ved20\source\repos\subString\subString\bin\Debug\net10.0\subString.deps.json
+C:\Users\ved20\source\repos\subString\subString\bin\Debug\net10.0\subString.runtimeconfig.json
+C:\Users\ved20\source\repos\subString\subString\bin\Debug\net10.0\subString.dll
+C:\Users\ved20\source\repos\subString\subString\bin\Debug\net10.0\subString.pdb
+C:\Users\ved20\source\repos\subString\subString\obj\Debug\net10.0\subString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ved20\source\repos\subString\subString\obj\Debug\net10.0\subString.AssemblyInfoInputs.cache
+C:\Users\ved20\source\repos\subString\subString\obj\Debug\net10.0\subString.AssemblyInfo.cs
+C:\Users\ved20\source\repos\subString\subString\obj\Debug\net10.0\subString.csproj.CoreCompileInputs.cache
+C:\Users\ved20\source\repos\subString\subString\obj\Debug\net10.0\subString.dll
+C:\Users\ved20\source\repos\subString\subString\obj\Debug\net10.0\refint\subString.dll
+C:\Users\ved20\source\repos\subString\subString\obj\Debug\net10.0\subString.pdb
+C:\Users\ved20\source\repos\subString\subString\obj\Debug\net10.0\subString.genruntimeconfig.cache
+C:\Users\ved20\source\repos\subString\subString\obj\Debug\net10.0\ref\subString.dll

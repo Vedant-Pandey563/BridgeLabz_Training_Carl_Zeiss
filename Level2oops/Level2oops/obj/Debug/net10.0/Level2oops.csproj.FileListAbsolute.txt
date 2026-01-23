@@ -1,0 +1,14 @@
+C:\Users\ved20\source\repos\Level2oops\Level2oops\bin\Debug\net10.0\Level2oops.exe
+C:\Users\ved20\source\repos\Level2oops\Level2oops\bin\Debug\net10.0\Level2oops.deps.json
+C:\Users\ved20\source\repos\Level2oops\Level2oops\bin\Debug\net10.0\Level2oops.runtimeconfig.json
+C:\Users\ved20\source\repos\Level2oops\Level2oops\bin\Debug\net10.0\Level2oops.dll
+C:\Users\ved20\source\repos\Level2oops\Level2oops\bin\Debug\net10.0\Level2oops.pdb
+C:\Users\ved20\source\repos\Level2oops\Level2oops\obj\Debug\net10.0\Level2oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ved20\source\repos\Level2oops\Level2oops\obj\Debug\net10.0\Level2oops.AssemblyInfoInputs.cache
+C:\Users\ved20\source\repos\Level2oops\Level2oops\obj\Debug\net10.0\Level2oops.AssemblyInfo.cs
+C:\Users\ved20\source\repos\Level2oops\Level2oops\obj\Debug\net10.0\Level2oops.csproj.CoreCompileInputs.cache
+C:\Users\ved20\source\repos\Level2oops\Level2oops\obj\Debug\net10.0\Level2oops.dll
+C:\Users\ved20\source\repos\Level2oops\Level2oops\obj\Debug\net10.0\refint\Level2oops.dll
+C:\Users\ved20\source\repos\Level2oops\Level2oops\obj\Debug\net10.0\Level2oops.pdb
+C:\Users\ved20\source\repos\Level2oops\Level2oops\obj\Debug\net10.0\Level2oops.genruntimeconfig.cache
+C:\Users\ved20\source\repos\Level2oops\Level2oops\obj\Debug\net10.0\ref\Level2oops.dll

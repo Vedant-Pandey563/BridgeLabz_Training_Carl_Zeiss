@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ved20\\source\\repos\\Level1oops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888C150C-888F-415F-807D-FF388C5BA092}|Level1oops\\Level1oops.csproj|c:\\users\\ved20\\source\\repos\\level1oops\\level1oops\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888C150C-888F-415F-807D-FF388C5BA092}|Level1oops\\Level1oops.csproj|solutionrelative:level1oops\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888C150C-888F-415F-807D-FF388C5BA092}|Level1oops\\Level1oops.csproj|c:\\users\\ved20\\source\\repos\\level1oops\\level1oops\\hotelbookingsystemcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888C150C-888F-415F-807D-FF388C5BA092}|Level1oops\\Level1oops.csproj|solutionrelative:level1oops\\hotelbookingsystemcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888C150C-888F-415F-807D-FF388C5BA092}|Level1oops\\Level1oops.csproj|c:\\users\\ved20\\source\\repos\\level1oops\\level1oops\\level1oops.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{888C150C-888F-415F-807D-FF388C5BA092}|Level1oops\\Level1oops.csproj|solutionrelative:level1oops\\level1oops.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888C150C-888F-415F-807D-FF388C5BA092}|Level1oops\\Level1oops.csproj|c:\\users\\ved20\\source\\repos\\level1oops\\level1oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888C150C-888F-415F-807D-FF388C5BA092}|Level1oops\\Level1oops.csproj|solutionrelative:level1oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level1oops",
+              "DocumentMoniker": "C:\\Users\\ved20\\source\\repos\\Level1oops\\Level1oops\\Level1oops.csproj",
+              "RelativeDocumentMoniker": "Level1oops\\Level1oops.csproj",
+              "ToolTip": "C:\\Users\\ved20\\source\\repos\\Level1oops\\Level1oops\\Level1oops.csproj",
+              "RelativeToolTip": "Level1oops\\Level1oops.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T09:39:19.942Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\ved20\\source\\repos\\Level1oops\\Level1oops\\CarRental.cs",
+              "RelativeDocumentMoniker": "Level1oops\\CarRental.cs",
+              "ToolTip": "C:\\Users\\ved20\\source\\repos\\Level1oops\\Level1oops\\CarRental.cs",
+              "RelativeToolTip": "Level1oops\\CarRental.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:10:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelBookingSystemcs.cs",
+              "DocumentMoniker": "C:\\Users\\ved20\\source\\repos\\Level1oops\\Level1oops\\HotelBookingSystemcs.cs",
+              "RelativeDocumentMoniker": "Level1oops\\HotelBookingSystemcs.cs",
+              "ToolTip": "C:\\Users\\ved20\\source\\repos\\Level1oops\\Level1oops\\HotelBookingSystemcs.cs",
+              "RelativeToolTip": "Level1oops\\HotelBookingSystemcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:39:13.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ved20\\source\\repos\\Level1oops\\Level1oops\\Program.cs",
+              "RelativeDocumentMoniker": "Level1oops\\Program.cs",
+              "ToolTip": "C:\\Users\\ved20\\source\\repos\\Level1oops\\Level1oops\\Program.cs",
+              "RelativeToolTip": "Level1oops\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:23:38.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

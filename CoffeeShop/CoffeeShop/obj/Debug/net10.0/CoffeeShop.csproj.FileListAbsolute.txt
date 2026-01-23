@@ -1,0 +1,14 @@
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\obj\Debug\net10.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\obj\Debug\net10.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\obj\Debug\net10.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\obj\Debug\net10.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\bin\Debug\net10.0\CoffeeShop.exe
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\bin\Debug\net10.0\CoffeeShop.deps.json
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\bin\Debug\net10.0\CoffeeShop.runtimeconfig.json
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\bin\Debug\net10.0\CoffeeShop.dll
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\bin\Debug\net10.0\CoffeeShop.pdb
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\obj\Debug\net10.0\CoffeeShop.dll
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\obj\Debug\net10.0\refint\CoffeeShop.dll
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\obj\Debug\net10.0\CoffeeShop.pdb
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\obj\Debug\net10.0\CoffeeShop.genruntimeconfig.cache
+C:\Users\ved20\source\repos\CoffeeShop\CoffeeShop\obj\Debug\net10.0\ref\CoffeeShop.dll
