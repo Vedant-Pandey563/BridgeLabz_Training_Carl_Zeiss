@@ -1,0 +1,15 @@
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\obj\Debug\net10.0\SchoolCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\obj\Debug\net10.0\SchoolCourse.AssemblyInfoInputs.cache
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\obj\Debug\net10.0\SchoolCourse.AssemblyInfo.cs
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\obj\Debug\net10.0\SchoolCourse.csproj.CoreCompileInputs.cache
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\obj\Debug\net10.0\SchoolCourse.sourcelink.json
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\bin\Debug\net10.0\SchoolCourse.exe
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\bin\Debug\net10.0\SchoolCourse.deps.json
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\bin\Debug\net10.0\SchoolCourse.runtimeconfig.json
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\bin\Debug\net10.0\SchoolCourse.dll
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\bin\Debug\net10.0\SchoolCourse.pdb
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\obj\Debug\net10.0\SchoolCourse.dll
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\obj\Debug\net10.0\refint\SchoolCourse.dll
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\obj\Debug\net10.0\SchoolCourse.pdb
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\obj\Debug\net10.0\SchoolCourse.genruntimeconfig.cache
+C:\Users\ved20\source\repos\BridgeLabz_Practice\SchoolCourse\SchoolCourse\obj\Debug\net10.0\ref\SchoolCourse.dll
