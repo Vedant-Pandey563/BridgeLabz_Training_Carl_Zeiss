@@ -161,5 +161,19 @@ Inheritance
 **Issues faced: **
 none
 
+### 24th January, 2026
+
+
+**What I have done: **
+
+Employee Wage Calculation Program till UC10
+https://github.com/Vedant-Pandey563/EmployeeDetail
+
+
+**What I will do next: **
+Continue with theory and problems on oops concepts - Inheritance,Aggregation, Association, Composition
+
+**Issues faced: **
+none
 
 **— Vedant Pandey**
