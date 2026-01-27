@@ -1,0 +1,16 @@
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build output
+bin/
+obj/
+
+# VS Code (optional)
+.vscode/
+
+# Logs & temp files
+*.log
+*.cache
