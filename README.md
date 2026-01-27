@@ -154,26 +154,26 @@ Object Oriented Design Principles - Diffrenet UML Diagrams Theory and Few Questi
 Started Inheritance
 
 
-**What I will do next: **
+**What I will do next:**
 Continue Object Oriented Design Principles  Questions
 Inheritance 
 
-**Issues faced: **
+**Issues faced:**
 none
 
 ### 24th January, 2026
 
 
-**What I have done: **
+**What I have done:**
 
 Employee Wage Calculation Program till UC10
 https://github.com/Vedant-Pandey563/EmployeeDetail
 
 
-**What I will do next: **
+**What I will do next:**
 Continue with theory and problems on oops concepts - Inheritance,Aggregation, Association, Composition
 
-**Issues faced: **
+**Issues faced:**
 none
 
 **— Vedant Pandey**
