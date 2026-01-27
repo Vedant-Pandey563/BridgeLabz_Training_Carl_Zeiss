@@ -176,4 +176,19 @@ Continue with theory and problems on oops concepts - Inheritance,Aggregation, As
 **Issues faced:**
 none
 
+### 27th January, 2026
+
+
+**What I have done:**
+
+Solved Real World Problems on Object Relationships (Bank And E-Commerce)
+Inheritance , Interface , Classes vs Interface ,Polymorphism and Encapsulation
+
+**What I will do next:**
+Practice Real World Problems on Covered Topics
+
+**Issues faced:**
+none
+
+
 **— Vedant Pandey**
