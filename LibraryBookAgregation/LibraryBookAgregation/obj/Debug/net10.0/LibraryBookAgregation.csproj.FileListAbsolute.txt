@@ -1,0 +1,15 @@
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\bin\Debug\net10.0\LibraryBookAgregation.exe
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\bin\Debug\net10.0\LibraryBookAgregation.deps.json
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\bin\Debug\net10.0\LibraryBookAgregation.runtimeconfig.json
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\bin\Debug\net10.0\LibraryBookAgregation.dll
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\bin\Debug\net10.0\LibraryBookAgregation.pdb
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\obj\Debug\net10.0\LibraryBookAgregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\obj\Debug\net10.0\LibraryBookAgregation.AssemblyInfoInputs.cache
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\obj\Debug\net10.0\LibraryBookAgregation.AssemblyInfo.cs
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\obj\Debug\net10.0\LibraryBookAgregation.csproj.CoreCompileInputs.cache
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\obj\Debug\net10.0\LibraryBookAgregation.sourcelink.json
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\obj\Debug\net10.0\LibraryBookAgregation.dll
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\obj\Debug\net10.0\refint\LibraryBookAgregation.dll
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\obj\Debug\net10.0\LibraryBookAgregation.pdb
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\obj\Debug\net10.0\LibraryBookAgregation.genruntimeconfig.cache
+C:\Users\ved20\source\repos\LibraryBookAgregation\LibraryBookAgregation\obj\Debug\net10.0\ref\LibraryBookAgregation.dll
