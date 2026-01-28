@@ -190,5 +190,18 @@ Practice Real World Problems on Covered Topics
 **Issues faced:**
 none
 
+### 27th January, 2026
+
+
+**What I have done:**
+
+Solved Real World OOPS Problems (Line Problem, Health Care Records,Bird Sanctuary) 
+Revised OOPS Concepts
+
+**What I will do next:**
+In Depth Revision of OOPS and Practice more Real World Problems 
+
+**Issues faced:**
+none
 
 **— Vedant Pandey**
