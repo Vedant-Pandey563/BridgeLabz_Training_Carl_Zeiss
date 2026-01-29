@@ -190,7 +190,7 @@ Practice Real World Problems on Covered Topics
 **Issues faced:**
 none
 
-### 27th January, 2026
+### 28th January, 2026
 
 
 **What I have done:**
@@ -203,5 +203,21 @@ In Depth Revision of OOPS and Practice more Real World Problems
 
 **Issues faced:**
 none
+
+### 29th January, 2026
+
+
+**What I have done:**
+
+Revised OOPs concepts and gave review to Kural Sir. Link - 
+https://github.com/Vedant-Pandey563/BridgeLabz_Training_Carl_Zeiss/tree/main/BridgeLabz_Practice/NumberProcessing 
+
+**What I will do next:** 
+
+Learn about Composition, Aggregation, etc.
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
