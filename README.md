@@ -219,5 +219,22 @@ Learn about Composition, Aggregation, etc.
 **Issues faced:**
 none
 
+### 30th January, 2026
+
+
+**What I have done:**
+
+Studied OOPS Class Relations
+Started DSA in C# 
+Solved Binary Search, LinkedList Problems 
+Link:https://github.com/Vedant-Pandey563/BridgeLabz_Training_Carl_Zeiss/tree/main/DSAinC%23
+
+**What I will do next:**
+
+Continue with LinkedLists and other DSA Concepts
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
