@@ -132,6 +132,9 @@ Advanced OOPS
 **Issues Faced:**
 None
 
+---
+
+
 ### 22nd January, 2026
 
 **What I’ve Done:**
@@ -144,6 +147,8 @@ Higher Level OOPS problems
 
 **Issues Faced:**
 None
+
+---
 
 ### 23rd January, 2026  
 
@@ -161,6 +166,8 @@ Inheritance
 **Issues faced:**
 none
 
+---
+
 ### 24th January, 2026
 
 
@@ -176,6 +183,8 @@ Continue with theory and problems on oops concepts - Inheritance,Aggregation, As
 **Issues faced:**
 none
 
+---
+
 ### 27th January, 2026
 
 
@@ -190,6 +199,8 @@ Practice Real World Problems on Covered Topics
 **Issues faced:**
 none
 
+---
+
 ### 28th January, 2026
 
 
@@ -203,6 +214,8 @@ In Depth Revision of OOPS and Practice more Real World Problems
 
 **Issues faced:**
 none
+
+---
 
 ### 29th January, 2026
 
@@ -219,6 +232,8 @@ Learn about Composition, Aggregation, etc.
 **Issues faced:**
 none
 
+---
+
 ### 30th January, 2026
 
 
@@ -232,6 +247,22 @@ Link:https://github.com/Vedant-Pandey563/BridgeLabz_Training_Carl_Zeiss/tree/mai
 **What I will do next:**
 
 Continue with LinkedLists and other DSA Concepts
+
+**Issues faced:**
+none
+
+---
+
+### 31st January, 2026
+
+
+**What I have done:**
+
+Started DoublyLinkedList , Solved some Leetcode LinkedList Problems , started Employee LinkedList Code 
+
+**What I will do next:**
+
+Continue with LinkedLists  problems and start other DSA Concepts like stack,queue.
 
 **Issues faced:**
 none
