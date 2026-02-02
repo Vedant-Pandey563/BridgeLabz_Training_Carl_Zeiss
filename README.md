@@ -267,5 +267,23 @@ Continue with LinkedLists  problems and start other DSA Concepts like stack,queu
 **Issues faced:**
 none
 
+---
+
+### 2nd February, 2026
+
+
+**What I have done:**
+
+LinkedList Employee Mangement Code , Started Stack and solved some stack problems 
+Gave Technical Review to Kural Sir
+https://github.com/Vedant-Pandey563/BridgeLabz_Training_Carl_Zeiss/tree/main/BridgeLabz_Practice/Review2Technial
+
+**What I will do next:**
+
+Continue Stacks , Start queue and other Data structures
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
