@@ -2,30 +2,38 @@
 using System;
 using System.Collections.Generic;
 
-class Warrior
+abstract class Device
 {
-    public double attack { get; set; }
-    public virtual void Attack(double attack)
+    public string Name { get; set; }
+
+    public abstract void Turn_on();
+}
+
+class TV : Device
+{
+
+    public override void Turn_on()
     {
-        attack = +5;
+        Console.WriteLine("TV has been turned on");
     }
 }
 
-class Paladin : Warrior
+class Light : Device
 {
-    public double heal { get; set}
-
-    public override void Attack(attack)
+    public override void Turn_on()
     {
-        attack = 1.2 * Warrior().Attack();
-    }
-
-    public void Heal()
-    {
-        heal = +30;
+        Console.WriteLine("Light has been turned on");
     }
 }
 
+class AC : Device
+{
+
+    public override void Turn_on()
+    {
+        Console.WriteLine("AC has been turned on");
+    }
+}
 
 class Remote
 {
@@ -46,7 +54,7 @@ class Remote
 
 }
 
-public class UniversalRemote
+public class Program
 {
     public static void Main(string[] args)
     {
@@ -59,6 +67,5 @@ public class UniversalRemote
         r.AddDevice(new AC());
 
         r.SwitchOn();
-
     }
 }
