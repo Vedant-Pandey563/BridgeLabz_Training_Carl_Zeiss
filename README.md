@@ -285,5 +285,21 @@ Continue Stacks , Start queue and other Data structures
 **Issues faced:**
 none
 
+---
+
+### 3rd February, 2026
+
+
+**What I have done:**
+
+Solved Stack LeetCode Questions and Started Queue
+
+**What I will do next:**
+
+Continue queue and other Data structures
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
