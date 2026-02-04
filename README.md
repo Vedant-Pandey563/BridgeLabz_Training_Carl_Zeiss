@@ -301,5 +301,22 @@ Continue queue and other Data structures
 **Issues faced:**
 none
 
+---
+
+### 4th February, 2026
+
+
+**What I have done:**
+
+Solved Queue and HashMap LeetCode Questions
+
+
+**What I will do next:**
+
+Some HashMap Problems , Algorithms
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
