@@ -318,5 +318,20 @@ Some HashMap Problems , Algorithms
 **Issues faced:**
 none
 
+### 4th February, 2026
+
+
+**What I have done:**
+
+Solved HashMap LeetCode Questions
+Sorting Algortihms
+
+**What I will do next:**
+
+Revise DSA Problems and Concepts
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
