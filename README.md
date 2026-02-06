@@ -343,7 +343,12 @@ none
 **What I have done:**
 
 Revision of dsa topics 
-Solved DSA Scenario Based Question
+Solved DSA Scenario Based Question given by Kural sir 
+(Test Result System , Sensor Data Processing)
+
+Concepts Covered : 
+Sliding Window,Circular Array ,HashMap / Dictionary,Hashing (HashSet),Deque (LinkedList),Stack,Queue
+
 
 **What I will do next:**
 
