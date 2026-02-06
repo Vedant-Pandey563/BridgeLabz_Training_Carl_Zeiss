@@ -318,7 +318,9 @@ Some HashMap Problems , Algorithms
 **Issues faced:**
 none
 
-### 4th February, 2026
+---
+
+### 5th February, 2026
 
 
 **What I have done:**
@@ -333,5 +335,21 @@ Revise DSA Problems and Concepts
 **Issues faced:**
 none
 
+---
+
+### 6th February, 2026
+
+
+**What I have done:**
+
+Revision of dsa topics 
+Solved DSA Scenario Based Question
+
+**What I will do next:**
+
+Work on more Scenario Based Problems
+
+**Issues faced:**
+none
 
 **— Vedant Pandey**
