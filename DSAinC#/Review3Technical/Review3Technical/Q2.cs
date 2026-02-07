@@ -121,7 +121,7 @@ namespace Review3Technical
             slow.next = null;//slow is at k-1 , drop from here 
 
 
-            /*while (k>0)
+            /*while (k>0) normal travesal , multi steps
             {
                 Node temp = head;
                 while (temp.next != null && temp.next.next != null)
