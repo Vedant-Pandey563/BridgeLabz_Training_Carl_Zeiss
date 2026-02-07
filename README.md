@@ -357,4 +357,24 @@ Work on more Scenario Based Problems
 **Issues faced:**
 none
 
+---
+
+### 7th February, 2026
+
+
+**What I have done:**
+
+Gave Review to Kural Sir 
+solved scenario problems given by sir : 
+1)Text editor maintains action history as a singly linked list,Delete the last K nodes from the linked list
+2)Ranking Intern Performance using Descending Selction Sort
+
+**What I will do next:**
+
+C# Collections,Streams
+
+**Issues faced:**
+none
+
+
 **— Vedant Pandey**
