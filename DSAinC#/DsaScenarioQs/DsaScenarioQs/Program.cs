@@ -100,7 +100,7 @@ namespace DsaScenarioQs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Optical Machine");
+            Console.WriteLine("Multiple Sensor Readings");
 
             SensorSystem system = new SensorSystem();
 
