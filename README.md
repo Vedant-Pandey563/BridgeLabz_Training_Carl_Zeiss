@@ -376,5 +376,23 @@ C# Collections,Streams
 **Issues faced:**
 none
 
+---
+
+### 9th February, 2026
+
+
+**What I have done:**
+
+C# Generics , Closure,Delegate,Event
+
+
+**What I will do next:**
+
+C# Garbage Collection,Dispose,Collections
+
+**Issues faced:**
+none
+
+
 
 **— Vedant Pandey**
