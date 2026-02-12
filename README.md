@@ -394,5 +394,61 @@ C# Garbage Collection,Dispose,Collections
 none
 
 
+---
+
+### 10th February, 2026
+
+
+**What I have done:**
+
+Review taken by Chandrashekar sir 
+Discussed about the topics that have to be covered ahead
+
+**What I will do next:**
+
+Solve Address book and line comparison problems
+Continue C# Collections 
+
+**Issues faced:**
+none
+
+---
+
+### 11th February, 2026
+
+
+**What I have done:**
+
+Line comparison problem
+https://github.com/Vedant-Pandey563/LineProblem
+ Garbage Collection,Dispose , Problems on Generics
+
+**What I will do next:**
+
+Continue Generics Problems, Delegates, Event,Closure
+
+**Issues faced:**
+none
+
+---
+
+### 12th February, 2026
+
+
+**What I have done:**
+
+Problem on Generics, delegates and events
+Non Genric Collections theory and implementation : ArrayList,HashTable,Stack,Queue 
+
+
+**What I will do next:**
+
+Finish Remaining Collections topics 
+Address Book Problem
+
+**Issues faced:**
+none
+
+
 
 **— Vedant Pandey**
