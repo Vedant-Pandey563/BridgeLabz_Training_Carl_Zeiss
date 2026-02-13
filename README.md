@@ -449,6 +449,24 @@ Address Book Problem
 **Issues faced:**
 none
 
+---
+
+### 13th February, 2026
+
+
+**What I have done:**
+
+Non-generic Collections : Queue,SortedList,BitArray 
+Address Book Problem till UC6
+
+
+**What I will do next:**
+
+Remaining Uses Cases of Address Book Problem
+Revise Topics for Review
+
+**Issues faced:**
+none
 
 
 **— Vedant Pandey**
