@@ -468,5 +468,23 @@ Revise Topics for Review
 **Issues faced:**
 none
 
+---
+
+### 14th February, 2026
+
+
+**What I have done:**
+
+Gave review to Chandrashekar sir
+https://github.com/Vedant-Pandey563/BridgeLabz_Training_Carl_Zeiss/tree/main/Review4TechnicalAddressBook
+
+
+**What I will do next:**
+
+Exceptions, i/o streams
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
