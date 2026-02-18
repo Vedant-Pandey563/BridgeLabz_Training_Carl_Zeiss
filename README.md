@@ -486,5 +486,56 @@ Exceptions, i/o streams
 **Issues faced:**
 none
 
+---
+
+### 16th February, 2026
+
+
+**What I have done:**
+
+Errors and types ,error vs exception,types of exceptions,Exception Handling,Try catch finally ,Multi catch ,Custom exception 
+
+
+**What I will do next:**
+
+Continue Exceptions, iostream
+
+**Issues faced:**
+none
+
+---
+
+### 17th February, 2026
+
+
+**What I have done:**
+
+Exceptions theory and fundamentals code implementations.
+Started Iostreams and file handling 
+
+
+**What I will do next:**
+
+Continue Iostreams theory and codes
+
+**Issues faced:**
+none
+
+---
+
+### 18th February, 2026
+
+
+**What I have done:**
+
+Iostreams - FileStream,StreamWriter,StreamReader,CSV,JSON theory + problems
+Started regex
+
+**What I will do next:**
+
+Continue Regex Theory and implementations
+
+**Issues faced:**
+none
 
 **— Vedant Pandey**
