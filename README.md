@@ -538,4 +538,20 @@ Continue Regex Theory and implementations
 **Issues faced:**
 none
 
+### 19th February, 2026
+
+
+**What I have done:**
+
+Finished Regex Implementations 
+Started LINQ
+
+**What I will do next:**
+
+Continue LINQ
+
+**Issues faced:**
+none
+
+
 **— Vedant Pandey**
