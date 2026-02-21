@@ -1,0 +1,52 @@
+﻿Employee Management & Payroll System — Main Question
+
+You are developing a backend employee management and payroll system for Carl Zeiss to manage employees, validate data, store records in files, and calculate salaries based on employee type.
+
+Build the system by implementing the following use cases.
+
+Use Cases
+
+Use Case 1 — Abstract Class & Properties		//00
+Create an abstract employee structure with private fields, validated properties using Regex, and a method to calculate salary.
+
+Use Case 2 — Multiple Employee Types	//00
+
+Implement multiple employee types:
+
+Full Time (Monthly salary)
+
+Part Time (Rate per hour)
+
+Contract employee
+
+Use Case 3 — Employee Data Validation		//00
+
+Validate employee details including name, phone number, and email using Regex.
+
+Use Case 4 — Employee Storage (Collections / DSA)		//00
+
+Store and manage employee records using appropriate data structures.
+
+Use Case 5 — Department Grouping 
+
+Group employees by department (e.g., IT, HR).
+
+Use Case 6 — Salary Processing & Analysis		//00
+
+Calculate total salary expenses, find the highest paid employee, and compute the average salary.
+
+Use Case 7 — Custom Exception Handling		//00
+
+Create and use custom exceptions for validation and system errors.
+
+Use Case 8 — File Storage using Stream //00
+
+Save and retrieve employee records using file streams.
+
+Use Case 9 — Searching using Algorithm //00
+
+Implement employee searching functionality.
+
+Use Case 10 — Find First Duplicate Email  //00
+
+Detect the first duplicate employee email.
