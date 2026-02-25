@@ -562,15 +562,83 @@ none
 
 **What I have done:**
 
-Completed Review 5
+Completed Review 5 Technical
 
-**What I will do next:**
-
+**What I will do next:** 
+Finish Review 5 viva 
 Continue with LINQ
 
 **Issues faced:**
 none
 
+---
+
+### 21st February, 2026
+
+
+**What I have done:**
+
+Completed Review 5
+
+**What I will do next:**
+
+Continue with LINQ basics
+
+**Issues faced:**
+none
+
+---
+
+### 23rd February, 2026
+
+
+**What I have done:**
+
+LINQ Need and Working ,Query syntax,Method syntax,Lambda experessions
+filtering,projection,sorting,element operators
+Grouping, Aggregation,Join 
+
+**What I will do next:**
+
+Linq problems 
+Start Attributes
+
+**Issues faced:**
+none
+
+---
+
+### 24th February, 2026
+
+
+**What I have done:**
+
+Linq problems  on lambda expressions ,grouping
+Started Attributes
+
+**What I will do next:**
+
+Continue Attributes
+
+**Issues faced:**
+none
+
+---
+
+### 25th February, 2026
+
+
+**What I have done:**
+
+Attributes , Built-in attributes , Custom Attributes, Attribute Usage Rules, Reflections
+LINQ questions
+
+**What I will do next:**
+
+Contniue Attributes implementation
+
+**Issues faced:**
+none
 
 
 **— Vedant Pandey**
