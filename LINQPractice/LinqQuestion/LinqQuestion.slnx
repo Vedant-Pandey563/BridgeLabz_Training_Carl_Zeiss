@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LinqQuestion/LinqQuestion.csproj" />
+  <Project Path="TestProject1/TestProject1.csproj" Id="9012430f-c88f-4509-a641-449544ddad41" />
+</Solution>
