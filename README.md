@@ -706,7 +706,76 @@ Revise MsTest,Linq,Attributes and Solve Problems
 **Issues faced:**
 none
 
+---
+
+### 3rd March, 2026
+
+
+**What I have done:**
+
+Linq Revision , Linq Grouping Questions
+
+**What I will do next:**
+
+Continue Linq revision and questions
+revise Attributes,Reflections and MsTest
+
+**Issues faced:**
+none
+
+---
+
+### 5th March, 2026
+
+
+**What I have done:**
+
+Started Design Principles And Patterns 
+Read and Implemented Singleton and Factory Patterns
+
+**What I will do next:**
+
+Continue with remaining Design patterns and Principles
+
+**Issues faced:**
+none
+
+---
+
+### 6th March, 2026
+
+
+**What I have done:**
+
+Creative Design Patterns:
+Singleton, Factory, Abstract Factory,Builder, Prototype 
+
+**What I will do next:**
+
+Continue with remaining Design patterns and Principles
+
+**Issues faced:**
+none
+
+---
+
+### 9th March, 2026
+
+
+**What I have done:**
+
+Gave review to Chandrashekar sir
+https://github.com/Vedant-Pandey563/BridgeLabz_Training_Carl_Zeiss/tree/main/Review6TechnicalLibrary/LibraryManagementApp
+
+**What I will do next:**
+
+Start DBMS
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
+
 
 
