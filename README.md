@@ -774,6 +774,24 @@ Start DBMS
 **Issues faced:**
 none
 
+---
+
+### 10th March, 2026
+
+
+**What I have done:**
+
+Database Programming basics , Fundamental SQL Commands/Queries
+SQL Server and SSMS architecture,working
+
+**What I will do next:**
+Continue SQL Query Practice 
+Start Advanced SQL Topics
+
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
 
