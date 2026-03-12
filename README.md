@@ -792,6 +792,45 @@ Start Advanced SQL Topics
 **Issues faced:**
 none
 
+---
+
+### 11th March, 2026
+
+
+**What I have done:**
+
+Table and  Basic Language query
+Aggregates & GROUP BY 
+
+**What I will do next:**
+HAVING & Advanced Aggregates
+Joins 
+Sub query and joins
+
+
+**Issues faced:**
+none
+
+---
+
+### 12th March, 2026
+
+
+**What I have done:**
+
+HAVING & Advanced Aggregates
+Basic Joins 
+Sub query and joins
+
+**What I will do next:**
+Stored procedure.
+Views 
+Triggers
+
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
 
