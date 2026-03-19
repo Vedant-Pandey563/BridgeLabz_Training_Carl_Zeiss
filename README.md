@@ -831,8 +831,100 @@ Triggers
 **Issues faced:**
 none
 
+---
+
+### 13th March, 2026
+
+
+**What I have done:**
+
+Stored Procedures,Cursors, Triggers, Indexes, 
+
+**What I will do next:** 
+
+Transaction Management, Database Normalization,Cursors & Table Indexing.
+Locks, Backup, Exceptions and other theory topics
+
+**Issues faced:**
+none
+
+
+
+---
+
+### 14th March, 2026
+
+
+**What I have done:**
+
+Transaction Management, Database Normalization,Cursors & Table Indexing.
+Locks, Backup, Exceptions and other theory topics
+
+
+**What I will do next:**
+
+Revise and Practice more SQL Problems.
+
+**Issues faced:**
+none
+
+
+---
+
+### 16th March, 2026
+
+
+**What I have done:**
+
+Gave review to Kural Sir
+Started MongoDB , 
+Completed MongoDB Fundamentals
+
+**What I will do next:**
+
+Continue MongoDB Implementation
+
+**Issues faced:**
+none
+
+---
+
+### 17th March, 2026
+
+
+**What I have done:**
+
+MongoDb - Advanced Query Operators, Utility Commands, 
+Aggregation (Advanced), Arrays in MongoDB, Transactions basics 
+
+**What I will do next:**
+
+Advanced MongoDb Implemenatation
+Learn about Mongoose,Atlas
+
+**Issues faced:**
+none
+
+---
+
+### 18th March, 2026
+
+
+**What I have done:**
+
+MongoDB Implemenatation 
+Mongoose,Atlas
+
+Started MultithreadingFundamentals 
+ThreadPool 
+
+**What I will do next:**
+
+Tasks and Parallel Library,Async Programming
+Thread Synchronization,Concurrent Collections
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
-
-
-
