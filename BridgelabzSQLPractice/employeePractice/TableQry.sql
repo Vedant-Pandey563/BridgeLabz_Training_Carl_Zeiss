@@ -1,3 +1,5 @@
+Use EmployeePractice;
+
 Create Table Employee 
 (
 	EmpID int IDENTITY(1,1) PRIMARY KEY,

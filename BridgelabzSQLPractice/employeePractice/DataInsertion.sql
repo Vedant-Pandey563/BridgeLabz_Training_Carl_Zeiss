@@ -1,3 +1,6 @@
+Use EmployeePractice;
+
+
 INSERT INTO Employee (EmpName, Salary, JoinDate, Dept) 
 VALUES
 ('Sanju Samson', 50000, '2023-01-15', 'HR'),

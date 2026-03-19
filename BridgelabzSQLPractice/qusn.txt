@@ -1,0 +1,91 @@
+Billing & Inventory System
+Requirements
+1) Add products with stock quantity.
+2) Create a bill when a customer buys items.
+3) Reduce stock automatically when a bill is created.
+4) Prevent billing if stock is insufficient.
+5) Calculate the bill total automatically.
+6) Provide a report showing daily sales.
+7) Calculate total revenue using a function.
+8) Roll back the entire operation if something fails
+To implement this, we must use:
+* Stored Procedure
+* Trigger
+* View
+* Function
+* Subquery
+* Transaction (BEGIN TRAN / COMMIT / ROLLBACK)
+ Table Design
+Step1:
+1) Products Table
+2) Customers Table
+3) Bills Table
+4) BillItems Table
+Step2:
+Trigger
+- Automatically Reduce Stock
+- Whenever a product is added to BillItems, stock must decrease.
+What happens
+When a bill item is inserted:
+Example
+-Customer buys 2 coffees.
+-Stock automatically decreases.
+Step 3 - Function
+- Calculate Total Bill Amount
+- Create a scalar function.
+Step 4 — Stored Procedure with Transaction
+This is the most important part.
+Create Bill
+The procedure will:
+
+1 Insert Bill
+2 Insert BillItems
+3 Reduce stock
+4 Calculate total
+
+Why Transaction is Important
+
+Example:
+The customer buys 3 products
+
+--> Steps happening:
+1 Insert Bill
+2 Insert BillItems
+3 Reduce stock
+4 Calculate total
+
+If step 3 fails, we must undo everything.
+
+Transaction ensures:
+All Success  → Commit
+Any Failure  → RollBack
+
+Step 5 — View
+- Daily Sales Report
+- Create a view to show daily sales.
+Step 6 - Subquery Example
+- Find the top-selling product.
+eg:
+- Subquery finds product with maximum sales.
+System Flow:
+
+Customer buys product
+        ↓
+Stored Procedure starts TRANSACTION
+        ↓
+Check stock
+        ↓
+Insert Bill
+        ↓
+Insert BillItems
+        ↓
+Trigger reduces stock
+        ↓
+The function calculates the total
+        ↓
+Commit Transaction
+
+Example problem:
+If the stock is 5 and the customer buys 10, the system must cancel the entire bill.
+If error:
+ROLLBACK
