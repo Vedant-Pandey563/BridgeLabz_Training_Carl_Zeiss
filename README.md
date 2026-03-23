@@ -926,5 +926,64 @@ Thread Synchronization,Concurrent Collections
 **Issues faced:**
 none
 
+---
+
+### 20th March, 2026
+
+
+**What I have done:**
+
+Company Interaction 
+ThreadPool , Started TPL
+
+**What I will do next:**
+Continue Multithreading concepts
+
+
+**Issues faced:**
+none
+
+---
+
+### 21st March, 2026
+
+
+**What I have done:**
+
+Task Parallel Library (TPL)
+Async Programming (Async & Await)
+Thread Synchronization
+Concurrent Collections
+
+**What I will do next:**
+
+Parallel Programming and remaining topics 
+
+**Issues faced:**
+none
+
+---
+
+### 23rd March, 2026
+
+
+**What I have done:**
+
+Parallel Programming
+Cancellation Handling
+Deadlocks
+Background Processing
+Exception Handling in Multithreading
+Implemented Bank Account Problem using Multi Threading Concepts
+
+**What I will do next:**
+
+Revise Multithreading Concepts 
+Implement MultiThreading Real Life Scenario Problems
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
+
