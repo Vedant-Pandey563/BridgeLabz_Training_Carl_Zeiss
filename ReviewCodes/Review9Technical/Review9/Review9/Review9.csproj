@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>MultiThreadingPractice.MultiUserProcessing</StartupObject>
+    <StartupObject>Review8.SemaphoreProblem</StartupObject>
   </PropertyGroup>
 
 </Project>
