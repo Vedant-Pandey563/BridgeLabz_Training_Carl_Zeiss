@@ -984,6 +984,41 @@ Implement MultiThreading Real Life Scenario Problems
 **Issues faced:**
 none
 
+---
+
+### 24th March, 2026
+
+
+**What I have done:**
+
+Gave Review to Kural Sir
+Started ORM/Dapper 
+
+**What I will do next:**
+
+Finish Dapper and Keda Concepts
+Implementation of Dapper based solutions
+
+**Issues faced:**
+none
+
+---
+
+### 25th March, 2026
+
+
+**What I have done:**
+
+Finished Dapper and Keda Concepts
+Implementation of Dapper: query method
+
+**What I will do next:**
+
+Continue with remaining dapper methods like exectue,multi mapping.
+
+**Issues faced:**
+none
+
 
 **— Vedant Pandey**
 
