@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../StudentApi/StudentApi.csproj" Id="66db38e2-b659-4a2e-a121-058913a14e37" />
+  <Project Path="PingAPI/PingAPI.csproj" />
+</Solution>

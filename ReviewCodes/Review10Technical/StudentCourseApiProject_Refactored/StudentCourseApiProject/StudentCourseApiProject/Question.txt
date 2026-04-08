@@ -1,0 +1,21 @@
+﻿Students (StudentId, Name, Email)
+Courses (CourseId, CourseName, Duration)
+Enrollments (EnrollmentId, StudentId, CourseId)
+
+Implement:
+Adding a student
+POST /student
+
+Enrolling a student in a course
+POST /courses
+
+Fetching all courses of a student
+POST /enroll
+
+Implement:
+GET /students/{id}/courses
+GET /courses/{id}/students
+
+Students
+Courses
+Enrollments (Many-to-Many relationship)

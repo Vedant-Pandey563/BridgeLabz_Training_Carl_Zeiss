@@ -56,6 +56,40 @@ namespace DapperDemo
                 }
                 Console.WriteLine();
 
+                Console.WriteLine("Multi Result");
+
+                var sql2 = @"
+                        Select * from Products;
+                        Select * from Categories;
+                        ";
+
+                using(var multi = conn.QueryMultiple(sql2))
+                {
+                    var product = multi.Read<Product>().ToList();
+                    var categories = multi.Read<Category>().ToList();
+
+                    foreach (var p in product)
+                    {
+                        Console.WriteLine($"{p.ProductName} ----");
+                    }
+                    foreach (var c in categories)
+                    {
+                        Console.WriteLine($"{c.CategoryName}");
+                    }
+                }
+
+                Console.WriteLine("Mulyi type mapping");
+                Console.WriteLine();
+                var result1 = conn.Query(
+                    "Select ProductName,UnitPrice From Products");
+
+                foreach (var row in result)
+                {
+                    string name = row.ProductName;
+                    decimal price = row.UnitPrice;
+                    Console.WriteLine(name + price );
+                }
+
             }
         }
     }
